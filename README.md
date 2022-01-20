@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnbaruah
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Web 3.0
-- 💞️ I’m looking to collaborate with ... Elon musk
+- 💞️ I’m looking to collaborate with ... you
 - 📫 How to reach me ... through mail johnbaruah8@gmail.com
 
 <!---
