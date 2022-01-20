@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnbaruah
-- 👀 I’m interested in ... Web Devloping
-- 🌱 I’m currently learning ... Django & React
+- 👀 I’m interested in ... Web Development
+- 🌱 I’m currently learning ... Web 3.0
 - 💞️ I’m looking to collaborate with ... Elon musk
 - 📫 How to reach me ... through mail johnbaruah8@gmail.com
 
